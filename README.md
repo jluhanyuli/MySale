@@ -1,2 +1,1 @@
-# GoalngProject
-something of Golang
+一个简单的golang电商后台  慢慢开发中～
